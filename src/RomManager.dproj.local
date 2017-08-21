@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<BorlandProject>
+	<Transactions>
+    <Transaction>2016/04/10 13:25:23.000.140,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/16 14:08:57.000.810,=C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas</Transaction>
+    <Transaction>2016/04/16 14:26:10.000.873,C:\Users\test\Documents\RAD Studio\Projects\Unit1.dfm=C:\Users\test\Documents\RomManager\UMain.dfm</Transaction>
+    <Transaction>2016/04/16 14:26:10.000.873,C:\Users\test\Documents\RAD Studio\Projects\Unit1.pas=C:\Users\test\Documents\RomManager\UMain.pas</Transaction>
+    <Transaction>2016/04/16 14:26:15.000.707,C:\Users\test\Documents\RAD Studio\Projects\Project1.dproj=C:\Users\test\Documents\RomManager\RomManager.dproj</Transaction>
+    <Transaction>2016/04/16 16:39:27.000.417,=C:\Users\test\Documents\RomManager\Unit1.pas</Transaction>
+    <Transaction>2016/04/16 16:42:34.000.564,C:\Users\test\Documents\RomManager\Unit1.dfm=C:\Users\test\Documents\RomManager\UOptions.dfm</Transaction>
+    <Transaction>2016/04/16 16:42:34.000.564,C:\Users\test\Documents\RomManager\Unit1.pas=C:\Users\test\Documents\RomManager\UOptions.pas</Transaction>
+  </Transactions>
+</BorlandProject>
